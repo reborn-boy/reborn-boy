@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ravi Teja</h1>
 <h3 align="center">A passionate Data Scientist || ML Engineer || Python Developer </h3>
 
-<h1>&#x2022; A Computer Science Graduate specialized in <b>Artificial Intelligence & Machine Learning</b> from NRI Institute of Technology (NRIIT).</h1>
-
+- 🖥️ A Computer Science Graduate specialized in **Artificial Intelligence & Machine Learning** from NRI Institute of Technology (NRIIT)
 - 💼 I’m looking for a JOB
 - 📫 How to reach me **ravitejacsmnriit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ravitejapaila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravitejapaila" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ravitejacsmnriit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ravitejacsmnriit" height="30" width="40" /></a>
@@ -14,6 +14,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
+<hr>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -23,6 +24,7 @@
 </p>
     
 <h3 align="left">Tools:</h3>
+<hr>
 <p align="center"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
@@ -32,13 +34,8 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
 </p>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravitejapaila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravitejacsmnriit@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=reborn-boy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
