@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Teja</h1><hr>
+<h1 align="center">Hi 👋, I'm Ravi Teja</h1>
 <h3 align="center">A passionate Data Scientist || ML Engineer || Python Developer </h3>
 
 - 🖥️ A Computer Science Graduate specialized in **Artificial Intelligence & Machine Learning** from NRI Institute of Technology (NRIIT)
